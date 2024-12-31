@@ -1,4 +1,4 @@
-requirement following
+requirement following:
 streamlit
 pandas
 numpy
